@@ -5,9 +5,11 @@ Done as part of a Data Analytics Course
 
 Everything important should be in the root directory of this repo. 
 
-Screenshots are entitled `Excel Screenshot-\<year\>` for years 2018, 2019, and 2020 in the workbook
+Screenshots are entitled `Excel Screenshot-\<year\>` for years 2018, 2019, and 2020 in the workbook.
 
-The Macro code is stored under `SummarizeData.cls`
+The Macro code is stored under `SummarizeData.cls`.
+
+There is also a flowchart I made in Obsidian which I decided to include here as well. It's entitled `Module 2 Flowchart.png`.
 
 ## Citations:
 
